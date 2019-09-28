@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": " M&M TIM Employee Survey",
+    "slug": "MahidraSurveyReactApp",
+    "privacy": "public",
+    "sdkVersion": "32.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/icon5.png",
+    "splash": {
+      "image": "./assets/icon5.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.implevista.Survey",
+      "versionCode": 3
+    }
+  }
+}
